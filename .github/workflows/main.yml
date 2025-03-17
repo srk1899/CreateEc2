@@ -1,4 +1,4 @@
-name: Deploy Angular App to EC2
+name: DeploySteamlit App to ec2 instance
 
 on:
   workflow_dispatch:
